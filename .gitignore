@@ -1,0 +1,4 @@
+dados.tmp
+*.tmp
+Thumbs.db
+.DS_Store
